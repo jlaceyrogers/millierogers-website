@@ -1,0 +1,300 @@
+{
+  "artworks": [
+    {
+      "id": "still-photo-001",
+      "title": "Flower",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-002",
+      "title": "Flower 2",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower2.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-003",
+      "title": "Flower 3",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower3.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-004",
+      "title": "Flower 4",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower4.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-005",
+      "title": "Flower 5",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower5.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-006",
+      "title": "Flower 6",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower6.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-007",
+      "title": "Flower 7",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower7.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-008",
+      "title": "Flower 8",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower8.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-009",
+      "title": "Flower 9",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower9.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-010",
+      "title": "Flower 10",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower10.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-011",
+      "title": "Flower 11",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower11.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-012",
+      "title": "Flower 12",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/flower12.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-013",
+      "title": "Big Flower",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/bigflower.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-014",
+      "title": "Garfield",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/garfiled.jpeg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "still-photo-015",
+      "title": "Suits",
+      "category": "Still Photos",
+      "imagePath": "/assets/still-photos/suits.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "portrait-001",
+      "title": "Chris",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/chris.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "portrait-002",
+      "title": "Jack",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/jack.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "portrait-003",
+      "title": "Josh",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/josh.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "portrait-004",
+      "title": "Katie",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/katie.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "portrait-005",
+      "title": "Shannon",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/shannon.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "portrait-006",
+      "title": "Tommy",
+      "category": "Portraits",
+      "imagePath": "/assets/portraits/tommy.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "id": "landscape-001",
+      "title": "16 Mile Creek",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/16m.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-002",
+      "title": "Three Trees",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/3tree.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-003",
+      "title": "Barn",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/barn.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-004",
+      "title": "Bird Tree",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/birdtree.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-005",
+      "title": "Blue House",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/bluehouse.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-006",
+      "title": "Break Open",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/breake-open.jpeg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-007",
+      "title": "Clifton",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/clifton.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-008",
+      "title": "Corner House",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/cornerhouse.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-009",
+      "title": "Ducks",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/ducls.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-010",
+      "title": "Explosion",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/explos.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-011",
+      "title": "Glass Tree",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/glasstree.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-012",
+      "title": "Muddy Path",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/muddy.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-013",
+      "title": "Snowy Scene",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/snowy.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-014",
+      "title": "Tree",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/tree.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-015",
+      "title": "Two Trees",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/twotree.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "landscape-016",
+      "title": "Water",
+      "category": "Landscapes",
+      "imagePath": "/assets/landscapes/water.jpg",
+      "width": 1920,
+      "height": 1280
+    }
+  ]
+}
