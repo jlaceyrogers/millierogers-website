@@ -51,7 +51,7 @@ export default function Home() {
                     a passionate artist and photographer dedicated to capturing the beauty of the world through my lens and creative vision.
                   </p>
                   <p>
-                    My work spans across three main categories: still photography, portraiture, and 
+                    My work spans across three main categories: still life, portraiture, and 
                     landscape art. Each piece tells a unique story, inviting viewers to see the world 
                     from a different perspective.
                   </p>
@@ -85,7 +85,7 @@ export default function Home() {
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8">
-            {/* Still Photos Card */}
+            {/* Still Life Card */}
             <div className="group relative overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
               <div className="aspect-[3/4] bg-gradient-to-br from-blue-50 via-blue-100 to-blue-200 relative">
                 {/* Overlay gradient */}
@@ -94,7 +94,7 @@ export default function Home() {
                 {/* Content */}
                 <div className="absolute inset-0 flex flex-col justify-end p-8 text-white">
                   <div className="transform transition-transform duration-300 group-hover:translate-y-0 translate-y-2">
-                    <h3 className="text-2xl font-bold mb-3">Still Photos</h3>
+                    <h3 className="text-2xl font-bold mb-3">Still Life</h3>
                     <p className="text-gray-200 text-sm mb-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                       Capturing moments of beauty in everyday life
                     </p>

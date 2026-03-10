@@ -20,7 +20,7 @@ export default function Gallery({ artworks, initialCategory = 'All' }: GalleryPr
   const artworkCounts = useMemo(() => {
     return {
       'All': artworks.length,
-      'Still Photos': artworks.filter(a => a.category === 'Still Photos').length,
+      'Still Life': artworks.filter(a => a.category === 'Still Life').length,
       'Portraits': artworks.filter(a => a.category === 'Portraits').length,
       'Landscapes': artworks.filter(a => a.category === 'Landscapes').length,
     };

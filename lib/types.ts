@@ -3,7 +3,7 @@
 export interface Artwork {
   id: string;
   title: string;
-  category: 'Still Photos' | 'Portraits' | 'Landscapes';
+  category: 'Still Life' | 'Portraits' | 'Landscapes';
   imagePath: string;
   description?: string;
   width?: number;
@@ -14,7 +14,7 @@ export interface ArtworkData {
   artworks: Artwork[];
 }
 
-export type CategoryFilter = 'All' | 'Still Photos' | 'Portraits' | 'Landscapes';
+export type CategoryFilter = 'All' | 'Still Life' | 'Portraits' | 'Landscapes';
 
 export interface ContactFormData {
   name: string;

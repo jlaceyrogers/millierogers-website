@@ -3,7 +3,7 @@
     {
       "id": "still-photo-001",
       "title": "Flower",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower.jpg",
       "width": 1920,
       "height": 1280
@@ -11,7 +11,7 @@
     {
       "id": "still-photo-002",
       "title": "Flower 2",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower2.jpg",
       "width": 1920,
       "height": 1280
@@ -19,7 +19,7 @@
     {
       "id": "still-photo-003",
       "title": "Flower 3",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower3.jpg",
       "width": 1920,
       "height": 1280
@@ -27,7 +27,7 @@
     {
       "id": "still-photo-004",
       "title": "Flower 4",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower4.jpg",
       "width": 1920,
       "height": 1280
@@ -35,7 +35,7 @@
     {
       "id": "still-photo-005",
       "title": "Flower 5",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower5.jpg",
       "width": 1920,
       "height": 1280
@@ -43,7 +43,7 @@
     {
       "id": "still-photo-006",
       "title": "Flower 6",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower6.jpg",
       "width": 1920,
       "height": 1280
@@ -51,7 +51,7 @@
     {
       "id": "still-photo-007",
       "title": "Flower 7",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower7.jpg",
       "width": 1920,
       "height": 1280
@@ -59,7 +59,7 @@
     {
       "id": "still-photo-008",
       "title": "Flower 8",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower8.jpg",
       "width": 1920,
       "height": 1280
@@ -67,7 +67,7 @@
     {
       "id": "still-photo-009",
       "title": "Flower 9",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower9.jpg",
       "width": 1920,
       "height": 1280
@@ -75,7 +75,7 @@
     {
       "id": "still-photo-010",
       "title": "Flower 10",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower10.jpg",
       "width": 1920,
       "height": 1280
@@ -83,7 +83,7 @@
     {
       "id": "still-photo-011",
       "title": "Flower 11",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower11.jpg",
       "width": 1920,
       "height": 1280
@@ -91,7 +91,7 @@
     {
       "id": "still-photo-012",
       "title": "Flower 12",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/flower12.jpg",
       "width": 1920,
       "height": 1280
@@ -99,7 +99,7 @@
     {
       "id": "still-photo-013",
       "title": "Big Flower",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/bigflower.jpg",
       "width": 1920,
       "height": 1280
@@ -107,7 +107,7 @@
     {
       "id": "still-photo-014",
       "title": "Garfield",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/garfiled.jpeg",
       "width": 1920,
       "height": 1280
@@ -115,7 +115,7 @@
     {
       "id": "still-photo-015",
       "title": "Suits",
-      "category": "Still Photos",
+      "category": "Still Life",
       "imagePath": "/assets/still-photos/suits.jpg",
       "width": 1920,
       "height": 1280
