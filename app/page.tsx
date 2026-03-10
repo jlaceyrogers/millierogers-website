@@ -20,12 +20,12 @@ export default function Home() {
             <div className="flex items-center justify-center gap-3 mb-8">
               <div className="h-px w-12 bg-gradient-to-r from-transparent to-primary-blue"></div>
               <p className="text-xl sm:text-2xl lg:text-3xl text-primary-blue font-light tracking-wide">
-                Artist & Photographer
+                Artist
               </p>
               <div className="h-px w-12 bg-gradient-to-l from-transparent to-primary-blue"></div>
             </div>
             <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto font-light">
-              Capturing the beauty of the world through lens and creative vision
+              Capturing the beauty of the world through creative vision
             </p>
           </div>
         </AnimatedSection>
@@ -48,7 +48,7 @@ export default function Home() {
                 <div className="space-y-5 text-gray-700 leading-relaxed">
                   <p className="text-lg">
                     Welcome to my art portfolio. I'm <span className="font-semibold text-gray-900">Millie Rogers</span>, 
-                    a passionate artist and photographer dedicated to capturing the beauty of the world through my lens and creative vision.
+                    a passionate artist dedicated to capturing the beauty of the world through my creative vision.
                   </p>
                   <p>
                     My work spans across three main categories: still life, portraiture, and 
