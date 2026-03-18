@@ -8,7 +8,7 @@ interface CategoryFilterProps {
   artworkCounts: Record<CategoryFilterType, number>;
 }
 
-const categories: CategoryFilterType[] = ['All', 'Still Photos', 'Portraits', 'Landscapes'];
+const categories: CategoryFilterType[] = ['All', 'Still Life', 'Portraits', 'Landscapes'];
 
 export default function CategoryFilter({
   selectedCategory,
